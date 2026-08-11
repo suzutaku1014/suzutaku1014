@@ -30,7 +30,7 @@ light along each view ray.
 
 ## Software engineering
 
-- **[cadence](https://github.com/suzutaku1014/cadence)** — a full-stack recurring-session platform with effective-dated scheduling, approval-gated automation, typed API contracts, tests, and CI
+- **[reslot](https://github.com/suzutaku1014/reslot)** — a production-minded appointment rescheduling reference app with transactional workflows, outbox delivery, tests, and public operations controls
 - **[Auditloom](https://github.com/suzutaku1014/auditloom)** — an evidence-based repository quality auditing CLI, designed around untrusted input, reproducible findings, and explicit verification boundaries
 
 ## What I care about
